@@ -2,7 +2,7 @@
 
 A console-based movie watchlist management system written entirely in
 **8086 assembly language**. Users register and log in as an **Admin** or a
-**User**. Admins manage the system's movie catalog, and users build their own
+**User**. Admins manage the system's movie catalog and users build their own
 watchlists from it and track the status of each movie.
 
 Made for CSE341 (Microprocessors) at BRAC University.
